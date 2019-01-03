@@ -1,0 +1,285 @@
+Wi-Fi is disabled
+Stay-awake conditions: 2
+mInIdleMode false
+mScanPending false
+WifiController:
+ total records=7842
+ rec[0]: time=07-06 11:53:44.586 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[1]: time=07-06 11:53:44.590 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[2]: time=07-06 11:54:00.623 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[3]: time=07-06 11:54:00.871 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[4]: time=07-06 11:54:01.077 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[5]: time=07-06 11:54:05.911 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[6]: time=07-06 11:55:05.921 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[7]: time=07-06 11:56:05.910 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[8]: time=07-06 11:57:05.913 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[9]: time=07-06 11:58:05.917 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[10]: time=07-06 11:58:47.046 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[11]: time=07-06 11:59:05.915 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[12]: time=07-06 12:00:05.942 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[13]: time=07-06 12:01:05.923 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[14]: time=07-06 12:02:05.911 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[15]: time=07-06 12:03:05.916 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[16]: time=07-06 12:04:05.918 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[17]: time=07-06 12:05:05.921 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[18]: time=07-06 12:06:05.914 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[19]: time=07-06 12:07:05.984 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[20]: time=07-06 12:08:05.914 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[21]: time=07-06 12:08:42.491 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[22]: time=07-06 12:08:43.121 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[23]: time=07-06 12:08:44.598 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[24]: time=07-06 12:08:48.393 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[25]: time=07-06 12:09:05.910 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[26]: time=07-06 12:09:07.035 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[27]: time=07-06 12:09:07.472 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[28]: time=07-06 12:09:07.479 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[29]: time=07-06 12:09:31.590 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[30]: time=07-06 12:09:31.659 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[31]: time=07-06 12:09:31.804 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[32]: time=07-06 12:09:56.452 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[33]: time=07-06 12:09:56.695 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[34]: time=07-06 12:09:56.865 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[35]: time=07-06 12:10:05.928 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[36]: time=07-06 12:10:20.656 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[37]: time=07-06 12:10:21.233 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[38]: time=07-06 12:10:21.242 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[39]: time=07-06 12:10:45.368 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[40]: time=07-06 12:10:45.421 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[41]: time=07-06 12:10:45.586 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[42]: time=07-06 12:11:05.918 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[43]: time=07-06 12:11:10.733 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[44]: time=07-06 12:11:11.289 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[45]: time=07-06 12:11:11.298 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[46]: time=07-06 12:11:35.171 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[47]: time=07-06 12:11:35.305 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[48]: time=07-06 12:11:35.670 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[49]: time=07-06 12:11:59.260 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[50]: time=07-06 12:11:59.476 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[51]: time=07-06 12:11:59.749 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[52]: time=07-06 12:12:05.922 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[53]: time=07-06 12:12:23.968 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[54]: time=07-06 12:12:24.073 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[55]: time=07-06 12:12:24.474 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[56]: time=07-06 12:12:48.765 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[57]: time=07-06 12:12:49.339 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[58]: time=07-06 12:12:49.375 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[59]: time=07-06 12:13:05.920 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[60]: time=07-06 12:13:15.011 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[61]: time=07-06 12:13:15.117 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[62]: time=07-06 12:13:15.653 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[63]: time=07-06 12:13:33.571 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[64]: time=07-06 12:13:40.560 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[65]: time=07-06 12:13:40.735 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[66]: time=07-06 12:13:41.212 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[67]: time=07-06 12:14:05.878 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[68]: time=07-06 12:14:05.925 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[69]: time=07-06 12:14:06.007 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[70]: time=07-06 12:14:06.426 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[71]: time=07-06 12:14:31.629 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[72]: time=07-06 12:14:31.712 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[73]: time=07-06 12:14:31.880 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[74]: time=07-06 12:14:38.427 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[75]: time=07-06 12:14:57.458 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[76]: time=07-06 12:14:57.735 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[77]: time=07-06 12:14:57.941 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[78]: time=07-06 12:15:05.939 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[79]: time=07-06 12:15:22.468 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[80]: time=07-06 12:15:22.773 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[81]: time=07-06 12:15:22.773 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[82]: time=07-06 12:15:48.315 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[83]: time=07-06 12:15:48.389 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[84]: time=07-06 12:15:48.561 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[85]: time=07-06 12:16:05.928 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[86]: time=07-06 12:16:13.996 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[87]: time=07-06 12:16:14.097 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[88]: time=07-06 12:16:14.310 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[89]: time=07-06 12:16:39.404 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[90]: time=07-06 12:16:39.509 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[91]: time=07-06 12:16:40.142 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[92]: time=07-06 12:17:05.931 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[93]: time=07-06 12:18:05.911 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[94]: time=07-06 12:18:31.260 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155651(0x26003)
+ rec[95]: time=07-06 12:18:42.162 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155660(0x2600c)
+ rec[96]: time=07-06 12:18:42.206 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155650(0x26002)
+ rec[97]: time=07-06 12:19:05.915 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[98]: time=07-06 12:20:05.954 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+ rec[99]: time=07-06 12:21:05.937 processed=DefaultState org=StaDisabledWithScanState dest=<null> what=155652(0x26004)
+curState=StaDisabledWithScanState
+mScreenOff false
+mDeviceIdle false
+mPluggedType 2
+mIdleMillis 900000
+mSleepPolicy 2
+mPersistWifiState 0
+mAirplaneModeOn false
+mEnableTrafficStatsPoll false
+mTrafficStatsPollToken 1851
+mTxPkts 8349
+mRxPkts 7906
+mDataActivity 0
+
+Locks held:
+Locks acquired: 0 full, 57 full high perf, 0 scan
+Locks released: 0 full, 57 full high perf, 0 scan
+
+Locks held:
+
+mMulticastEnabled 0
+mMulticastDisabled 0
+Multicast Locks held:
+
+WifiStateMachine:
+ total records=27710
+ rec[0]: time=07-06 12:10:45.581 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151258411/151258411 1 0
+ rec[1]: time=07-06 12:10:45.581 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151258411/151258411 1 0
+ rec[2]: time=07-06 12:10:45.584 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151258413/151258413 0 0
+ rec[3]: time=07-06 12:11:05.946 processed=DefaultState org=ScanModeState dest=<null> what=131133(0x2003d) !CMD_GET_SUPPORTED_FEATURES uid=1000 rt=151278776/151278776 0 0
+ rec[4]: time=07-06 12:11:05.963 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131135(0x2003f) !CMD_GET_LINK_LAYER_STATS uid=1000 rt=151278792/151278792 0 0
+ rec[5]: time=07-06 12:11:10.736 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151283566/151283566 0 0
+ rec[6]: time=07-06 12:11:10.736 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151283566/151283566 0 0
+ rec[7]: time=07-06 12:11:10.741 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151283570/151283570 1 0
+ rec[8]: time=07-06 12:11:11.006 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151283836/151283836 1 0
+ rec[9]: time=07-06 12:11:11.006 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151283836/151283836 1 0
+ rec[10]: time=07-06 12:11:11.009 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151283839/151283839 0 0
+ rec[11]: time=07-06 12:11:35.167 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151307997/151307997 0 0
+ rec[12]: time=07-06 12:11:35.167 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151307997/151307997 0 0
+ rec[13]: time=07-06 12:11:35.171 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151308001/151308001 1 0
+ rec[14]: time=07-06 12:11:35.472 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151308302/151308302 1 0
+ rec[15]: time=07-06 12:11:35.472 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151308302/151308302 1 0
+ rec[16]: time=07-06 12:11:35.473 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151308303/151308303 0 0
+ rec[17]: time=07-06 12:11:59.262 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151332091/151332091 0 0
+ rec[18]: time=07-06 12:11:59.262 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151332092/151332092 0 0
+ rec[19]: time=07-06 12:11:59.264 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151332094/151332094 1 0
+ rec[20]: time=07-06 12:11:59.541 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151332371/151332371 1 0
+ rec[21]: time=07-06 12:11:59.541 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151332371/151332371 1 0
+ rec[22]: time=07-06 12:11:59.544 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151332374/151332374 0 0
+ rec[23]: time=07-06 12:12:23.965 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151356795/151356795 0 0
+ rec[24]: time=07-06 12:12:23.965 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151356795/151356795 0 0
+ rec[25]: time=07-06 12:12:23.969 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151356798/151356798 1 0
+ rec[26]: time=07-06 12:12:24.217 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151357047/151357047 1 0
+ rec[27]: time=07-06 12:12:24.217 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151357047/151357047 1 0
+ rec[28]: time=07-06 12:12:24.218 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151357048/151357048 0 0
+ rec[29]: time=07-06 12:12:45.415 processed=DefaultState org=ScanModeState dest=<null> what=131131(0x2003b) !CMD_GET_CONFIGURED_NETWORKS uid=10114 rt=151378245/151378245 10114 0 num=3
+ rec[30]: time=07-06 12:12:48.770 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151381600/151381600 0 0
+ rec[31]: time=07-06 12:12:48.770 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151381600/151381600 0 0
+ rec[32]: time=07-06 12:12:48.773 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151381603/151381603 1 0
+ rec[33]: time=07-06 12:12:49.336 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151382166/151382166 1 0
+ rec[34]: time=07-06 12:12:49.336 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151382166/151382166 1 0
+ rec[35]: time=07-06 12:12:49.337 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151382166/151382166 0 0
+ rec[36]: time=07-06 12:13:15.009 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151407839/151407839 0 0
+ rec[37]: time=07-06 12:13:15.009 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151407839/151407839 0 0
+ rec[38]: time=07-06 12:13:15.010 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151407840/151407840 1 0
+ rec[39]: time=07-06 12:13:15.391 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151408221/151408221 1 0
+ rec[40]: time=07-06 12:13:15.391 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151408221/151408221 1 0
+ rec[41]: time=07-06 12:13:15.392 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151408222/151408222 0 0
+ rec[42]: time=07-06 12:13:40.558 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151433388/151433388 0 0
+ rec[43]: time=07-06 12:13:40.558 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151433388/151433388 0 0
+ rec[44]: time=07-06 12:13:40.559 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151433389/151433389 1 0
+ rec[45]: time=07-06 12:13:40.930 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151433760/151433760 1 0
+ rec[46]: time=07-06 12:13:40.930 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151433760/151433760 1 0
+ rec[47]: time=07-06 12:13:40.941 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151433771/151433771 0 0
+ rec[48]: time=07-06 12:14:05.868 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151458698/151458698 0 0
+ rec[49]: time=07-06 12:14:05.868 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151458698/151458698 0 0
+ rec[50]: time=07-06 12:14:05.870 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151458700/151458700 1 0
+ rec[51]: time=07-06 12:14:06.194 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151459024/151459024 1 0
+ rec[52]: time=07-06 12:14:06.194 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151459024/151459024 1 0
+ rec[53]: time=07-06 12:14:06.195 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151459025/151459025 0 0
+ rec[54]: time=07-06 12:14:31.636 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151484466/151484466 0 0
+ rec[55]: time=07-06 12:14:31.636 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151484466/151484466 0 0
+ rec[56]: time=07-06 12:14:31.637 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151484467/151484467 1 0
+ rec[57]: time=07-06 12:14:31.883 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151484713/151484713 1 0
+ rec[58]: time=07-06 12:14:31.883 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151484713/151484713 1 0
+ rec[59]: time=07-06 12:14:31.884 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151484713/151484713 0 0
+ rec[60]: time=07-06 12:14:57.446 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151510276/151510276 0 0
+ rec[61]: time=07-06 12:14:57.446 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151510276/151510276 0 0
+ rec[62]: time=07-06 12:14:57.448 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151510278/151510278 1 0
+ rec[63]: time=07-06 12:14:57.765 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151510595/151510595 1 0
+ rec[64]: time=07-06 12:14:57.765 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151510595/151510595 1 0
+ rec[65]: time=07-06 12:14:57.766 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151510596/151510596 0 0
+ rec[66]: time=07-06 12:15:22.472 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151535302/151535302 0 0
+ rec[67]: time=07-06 12:15:22.472 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151535302/151535302 0 0
+ rec[68]: time=07-06 12:15:22.476 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151535305/151535305 1 0
+ rec[69]: time=07-06 12:15:22.684 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151535514/151535514 1 0
+ rec[70]: time=07-06 12:15:22.684 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151535514/151535514 1 0
+ rec[71]: time=07-06 12:15:22.685 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151535515/151535515 0 0
+ rec[72]: time=07-06 12:15:48.314 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151561143/151561143 0 0
+ rec[73]: time=07-06 12:15:48.314 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151561143/151561143 0 0
+ rec[74]: time=07-06 12:15:48.314 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151561144/151561144 1 0
+ rec[75]: time=07-06 12:15:48.560 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151561390/151561390 1 0
+ rec[76]: time=07-06 12:15:48.560 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151561390/151561390 1 0
+ rec[77]: time=07-06 12:15:48.562 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151561392/151561392 0 0
+ rec[78]: time=07-06 12:16:05.957 processed=DefaultState org=ScanModeState dest=<null> what=131133(0x2003d) !CMD_GET_SUPPORTED_FEATURES uid=1000 rt=151578787/151578787 0 0
+ rec[79]: time=07-06 12:16:05.977 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131135(0x2003f) !CMD_GET_LINK_LAYER_STATS uid=1000 rt=151578807/151578807 0 0
+ rec[80]: time=07-06 12:16:14.000 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151586829/151586829 0 0
+ rec[81]: time=07-06 12:16:14.000 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151586830/151586830 0 0
+ rec[82]: time=07-06 12:16:14.001 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151586831/151586831 1 0
+ rec[83]: time=07-06 12:16:14.305 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151587135/151587135 1 0
+ rec[84]: time=07-06 12:16:14.305 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151587135/151587135 1 0
+ rec[85]: time=07-06 12:16:14.308 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151587138/151587138 0 0
+ rec[86]: time=07-06 12:16:39.412 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151612242/151612242 0 0
+ rec[87]: time=07-06 12:16:39.412 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151612242/151612242 0 0
+ rec[88]: time=07-06 12:16:39.418 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151612248/151612248 1 0
+ rec[89]: time=07-06 12:16:40.145 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151612974/151612974 1 0
+ rec[90]: time=07-06 12:16:40.145 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151612974/151612974 1 0
+ rec[91]: time=07-06 12:16:40.146 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151612975/151612975 0 0
+ rec[92]: time=07-06 12:17:10.195 processed=DefaultState org=ScanModeState dest=<null> what=131133(0x2003d) !CMD_GET_SUPPORTED_FEATURES uid=1000 rt=151643025/151643025 0 0
+ rec[93]: time=07-06 12:17:10.207 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131135(0x2003f) !CMD_GET_LINK_LAYER_STATS uid=1000 rt=151643037/151643037 0 0
+ rec[94]: time=07-06 12:18:31.255 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) CMD_SCREEN_STATE_CHANGED rt=151724085/151724085 0 0
+ rec[95]: time=07-06 12:18:31.255 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) CMD_ENABLE_RSSI_POLL rt=151724085/151724085 0 0
+ rec[96]: time=07-06 12:18:31.266 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) CMD_SET_SUSPEND_OPT_ENABLED rt=151724096/151724096 1 0
+ rec[97]: time=07-06 12:18:42.186 processed=DefaultState org=ScanModeState dest=<null> what=131167(0x2005f) !CMD_SCREEN_STATE_CHANGED rt=151735016/151735016 1 0
+ rec[98]: time=07-06 12:18:42.186 processed=DefaultState org=ScanModeState dest=<null> what=131154(0x20052) !CMD_ENABLE_RSSI_POLL rt=151735016/151735016 1 0
+ rec[99]: time=07-06 12:18:42.187 processed=SupplicantStartedState org=ScanModeState dest=<null> what=131158(0x20056) !CMD_SET_SUSPEND_OPT_ENABLED rt=151735017/151735017 0 0
+curState=ScanModeState
+SupplicantStateTracker:
+ total records=295
+ rec[0]: time=07-05 17:54:13.304 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[1]: time=07-05 17:54:17.778 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[2]: time=07-05 17:54:20.305 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[3]: time=07-05 17:54:24.867 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[4]: time=07-05 18:29:13.479 processed=DefaultState org=UninitializedState dest=HandshakeState what=147462(0x24006)
+ rec[5]: time=07-05 18:29:14.715 processed=DefaultState org=HandshakeState dest=CompletedState what=147462(0x24006)
+ rec[6]: time=07-05 18:31:21.205 processed=CompletedState org=CompletedState dest=DisconnectedState what=147462(0x24006)
+ rec[7]: time=07-05 18:31:21.206 processed=DefaultState org=DisconnectedState dest=ScanState what=147462(0x24006)
+ rec[8]: time=07-05 18:31:31.305 processed=DefaultState org=ScanState dest=HandshakeState what=147462(0x24006)
+ rec[9]: time=07-05 18:31:31.559 processed=DefaultState org=HandshakeState dest=CompletedState what=147462(0x24006)
+ rec[10]: time=07-06 11:42:02.400 processed=DefaultState org=CompletedState dest=UninitializedState what=131183(0x2006f)
+ rec[11]: time=07-06 11:42:20.470 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[12]: time=07-06 11:42:25.906 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[13]: time=07-06 11:42:40.927 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[14]: time=07-06 11:42:46.421 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[15]: time=07-06 11:43:00.736 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[16]: time=07-06 11:43:06.330 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[17]: time=07-06 11:43:20.525 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[18]: time=07-06 11:43:26.070 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[19]: time=07-06 11:43:40.372 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[20]: time=07-06 11:43:45.932 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[21]: time=07-06 11:44:00.154 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[22]: time=07-06 11:44:05.633 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[23]: time=07-06 11:44:20.002 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[24]: time=07-06 11:44:25.705 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[25]: time=07-06 11:44:39.890 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[26]: time=07-06 11:44:45.467 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[27]: time=07-06 11:44:59.726 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[28]: time=07-06 11:45:05.266 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[29]: time=07-06 11:45:19.787 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[30]: time=07-06 11:45:25.240 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[31]: time=07-06 11:45:39.426 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[32]: time=07-06 11:45:45.185 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[33]: time=07-06 11:45:59.182 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[34]: time=07-06 11:46:04.832 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[35]: time=07-06 11:46:18.926 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[36]: time=07-06 11:46:24.554 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[37]: time=07-06 11:46:38.717 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[38]: time=07-06 11:46:44.102 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[39]: time=07-06 11:46:58.395 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[40]: time=07-06 11:47:03.939 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[41]: time=07-06 11:47:18.101 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[42]: time=07-06 11:47:23.599 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[43]: time=07-06 11:47:37.919 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[44]: time=07-06 11:47:43.582 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[45]: time=07-06 11:47:58.087 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[46]: time=07-06 11:48:03.477 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[47]: time=07-06 11:48:17.775 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[48]: time=07-06 11:48:23.472 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)
+ rec[49]: time=07-06 11:48:43.012 processed=DefaultState org=UninitializedState dest=UninitializedState what=131183(0x2006f)

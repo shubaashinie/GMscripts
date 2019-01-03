@@ -1,0 +1,14 @@
+
+python change_language.py 25 
+python GPS.py 25
+python GPS_Google_Map.py 25
+python Airplanemode_call.py 25 
+python Wifi_Connect_reset.py 25 
+python mocall_runall.py 25
+
+
+
+not run:
+
+python add_multiple_contacts.py 25 
+python download_launch_playstore.py 25

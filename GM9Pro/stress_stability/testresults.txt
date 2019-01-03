@@ -1,0 +1,559 @@
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Airplane.py 1 
+Starting: Intent { act=android.settings.AIRPLANE_MODE_SETTINGS }
+APM disabled and enabling APM
+APM enabled
+('Pass cnt=', 1)
+('Fail cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_BT.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 1)
+Total NO.OF iterations Passed: 1
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python BT_ON_OFF_Test1.py  1 
+adbd is already running as root
+remount succeeded
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+=======================================================================
+Stability test started
+=======================================================================
+-----------------
+('Itr', 1)
+---------------------------
+ BT enabled
+ BT Disabled
+--------------------------------
+('Total NO.OF Iterations ran : ', 1)
+Total NO.OF iterations Passed: 1
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python mo_call.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Sim present, so procedding the test
+No call is in progress...
+Connecting the call to MT_num...
+
+('Pass count,Fail count: ', 0, 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Videotest.py 1 
+  bash arg: -p
+  bash arg: com.mxtech.videoplayer.ad
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.mxtech.videoplayer.ad, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.mxtech.videoplayer.ad"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.mxtech.videoplayer.ad"
+data="android.intent.category.LAUNCHER"
+** No activities found to run, monkey aborted.
+('Pass Count,Fail Count: ', 0, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_audio.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+  bash arg: -p
+  bash arg: com.generalmobile.app.musicplayer
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.generalmobile.app.musicplayer, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.generalmobile.app.musicplayer"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.generalmobile.app.musicplayer"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=15ms (0ms mobile, 0ms wifi, 15ms not connected)
+Sim present, so procedding the test
+No call is in progress...
+Connecting the call to MT_num...
+
+Call already connected and in progress...
+
+Call successfully connected and in progress...
+Ending the call 
+
+Call successfully disconnected ...
+('Pass count,Fail count: ', 1, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_sms.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=37ms (0ms mobile, 0ms wifi, 37ms not connected)
+Sim present, so procedding the test
+No call is in progress...
+Connecting the call to MT_num...
+
+Call already connected and in progress...
+
+Call successfully connected and in progress...
+Ending the call 
+
+Call successfully disconnected ...
+('Pass count,Fail count: ', 1, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_video.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+  bash arg: -p
+  bash arg: com.mxtech.videoplayer.ad
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.mxtech.videoplayer.ad, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.mxtech.videoplayer.ad"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.mxtech.videoplayer.ad"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=30ms (0ms mobile, 0ms wifi, 30ms not connected)
+Sim present, so procedding the test
+Call already connected and in progress...
+
+Ending the call 
+
+Connecting the call to MT_num...
+
+Call already connected and in progress...
+
+Call successfully connected and in progress...
+Ending the call 
+
+Call successfully disconnected ...
+('Pass count,Fail count: ', 1, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_wifi.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Sim present, so procedding the test
+No call is in progress...
+Connecting the call to MT_num...
+
+wifi enabled
+wifi enabled
+Call already connected and in progress...
+
+Call successfully connected and in progress...
+Ending the call 
+
+Call successfully disconnected ...
+('call_Pass count,call_Fail count: ', 1, 0)
+('wifi_pass_cnt:', 1)
+('wifi_fail_cnt:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_Runall.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+  bash arg: -p
+  bash arg: com.generalmobile.app.musicplayer
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.generalmobile.app.musicplayer, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.generalmobile.app.musicplayer"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.generalmobile.app.musicplayer"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=26ms (0ms mobile, 0ms wifi, 26ms not connected)
+  bash arg: -p
+  bash arg: com.mxtech.videoplayer.ad
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.mxtech.videoplayer.ad, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.mxtech.videoplayer.ad"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.mxtech.videoplayer.ad"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=26ms (0ms mobile, 0ms wifi, 26ms not connected)
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Sim present, so procedding the test
+No call is in progress...
+Connecting the call to MT_num...
+
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Airplanemode_call.py 1 
+Starting: Intent { act=android.settings.AIRPLANE_MODE_SETTINGS }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.AIRPLANE_MODE_SETTINGS }
+Just now APM enabled...
+APM already enabled...disabling APM
+Sim present, so procedding the test
+Connecting the call to MT_num...
+
+('Pass cnt=', 1)
+('Fail cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_hotspot_alarm_calender.py 1 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Starting: Intent { cmp=com.android.settings/.TetherSettings }
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=40ms (0ms mobile, 0ms wifi, 40ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.deskclock
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.deskclock, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.deskclock"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.deskclock"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.gm
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.gm, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.gm"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.gm"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=14ms (0ms mobile, 0ms wifi, 14ms not connected)
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+Hotspot ON
+Hotspot OFF
+Call is in background!!!...
+
+calculator Opened!!!
+clock Opened!!!
+Gmail Opened!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 1)
+Total NO.OF iterations Passed: 1
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_Connect_preset.py 1 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+('Iterations:', '1')
+False
+('Connected to presaved wifi successfully for iteration:', 0)
+('Wifi preset connection Passed:', 1)
+('Wifi preset connection Failed:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_Connect_reset.py 1 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+('Iterations:', '1')
+False
+('Connected to presaved wifi successfully for iteration:', 0)
+('Wifi preset connection Passed:', 1)
+('Wifi preset connection Failed:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python calculator.py 1 
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=29ms (0ms mobile, 0ms wifi, 29ms not connected)
+Changing to Degree Mode
+Changing to Radian Mode
+('Fail count=', 0, ',Pass count=', 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python alarm.py 1 
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+31
+17:31
+Alarm is ON
+Alarm is ringing
+('pass_cnt,fail_cnt:', 1, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python chrome.py 1 
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+('pass_count is:', 3)
+('fail_count is:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python display_sleep.py 1 
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+('pass_cnt=', 1)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Game.py 1 
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=44ms (0ms mobile, 0ms wifi, 44ms not connected)
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+('pass_cnt:', 1)
+('fail_cnt', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python hotspot.py 1 
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { cmp=com.android.settings/.TetherSettings }
+Starting: Intent { act=android.settings.SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+enabled
+hotspot is enabled
+disabled
+('pass_cnt:', 1)
+('fail_cnt:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python skype.py 1 
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+('pass_cnt=', 0)
+('fail_cnt=', 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python SMS_operations.py 1 
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=31ms (0ms mobile, 0ms wifi, 31ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=33ms (0ms mobile, 0ms wifi, 33ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=29ms (0ms mobile, 0ms wifi, 29ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=19ms (0ms mobile, 0ms wifi, 19ms not connected)
+Working with Messages application
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+('pass_cnt:', 1)
+('fail_cnt:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_on_off.py 1 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+('Iterations:', '1')
+wifi disabled
+wifi enabled
+('pass_cnt:', 1)
+('fail_cnt:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python whatsapp.py 1 
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+('pass_cnt is:', 0)
+('fail_cnt is:', 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python sim_management.py 1 
+...sim1 is not activated....
+('sim1 deactive count :', 1)
+single sim is present.....operations cant be performed
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python change_language.py 1 
+Starting: Intent { act=android.settings.SETTINGS }
+value:com.google.android.inputmethod.japanese
+('pass_cnt=', 1)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python GPS.py 1 
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+('pass_cnt=', 0)
+('fail_cnt=', 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python GPS_Google_Map.py 1 
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+('pass_cnt=', 0)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python download_launch_playstore.py 1 
+Starting: Intent { cmp=com.android.vending/.AssetBrowserActivity }
+data or wifi is not enabled
+('pass_cnt', 0)
+('fail_cnt', 1)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python wifi_apns.py 1 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+("no of apn's available", 36)
+('pass_cnt', 1)
+('fail_cnt', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python add_multiple_contacts.py 1 
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Airplanemode_sms.py 1 

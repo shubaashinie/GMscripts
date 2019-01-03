@@ -1,0 +1,3820 @@
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_BT.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 9
+Total NO.OF iterations Failed: 1
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python BT_ON_OFF_Test1.py  10 
+restarting adbd as root
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+=======================================================================
+Stability test started
+=======================================================================
+-----------------
+('Itr', 1)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 2)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 3)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 4)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 5)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 6)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 7)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 8)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 9)
+---------------------------
+ Unable to turn on Blue tooth
+('Itr', 10)
+---------------------------
+ Unable to turn on Blue tooth
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 0
+Total NO.OF iterations Failed: 10
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python WiFi_on_off_Test1.py 10 
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Camera_Preview_Test.py 10 
+adbd is already running as root
+remount succeeded
+-----------------
+('Itr', 1)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 2)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 3)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 4)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 5)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 6)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 7)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 8)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 9)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+('Itr', 10)
+------
+Front Cam opened
+check 1
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+Back Cam opened
+check 2
+check 3
+Camera Preview
+Suspend
+Resume
+--------------------------------
+('Total NO.OF Iterations ran : ', 20)
+Total NO.OF iterations Passed: 20
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python mo_call.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Ending the call 
+
+Call successfully disconnected ...
+
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Videotest.py 10 
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//MP3_converted.mp3 typ=video/3gp }
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+Video is playing
+video stopped
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python sms.py 10 
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+('Itr', 1)
+--------------------------------
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_audio.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/MP3_converted.mp3 typ=video/3gp }
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Audio is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_sms.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_video.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard//movies//media//1080p_30fps_128kbps.mp4 typ=video/3gp }
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_wifi.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+WIFI is ON!!!
+WIFI is OFF!!!
+call ENDED!!!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_Runall.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please inserStarting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.settings.BLUETOOTH_SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.VIEW dat=file:///sdcard/movies/media/1080p_30fps_128kbps.mp4 typ=video/3gp }
+t the sim and start the test
+Connecting the call to MT_num...
+
+Call successfully connected and in progress...
+
+Call is in background!!!...
+
+Bluetooth is ON!!!
+Bluetooth is OFF!!!
+WIFI is ON!!!
+WIFI is OFF!!!
+Call is in background!!!...
+
+Video is playing
+call ENDED!!!
+Auto rotate ON
+Auto rotate OFF
+Location ON/OFF
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Airplanemode_call.py 10 
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+('Itr', 1)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+Aeroplane mode:
+Started!!!
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+Aeroplane mode OFF!
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Airplanemode_sms.py 10 
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+Broadcasting: Intent { act=android.intent.action.AIRPLANE_MODE flg=0x400000 }
+Broadcast completed: result=0
+Starting: Intent { act=android.intent.action.SENDTO dat=sms:xxxxxxxxxx (has extras) }
+Warning: Activity not started, its current task has been brought to the front
+('Itr', 1)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 2)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 3)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 4)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 5)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 6)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 7)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 8)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 9)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+('Itr', 10)
+--------------------------------
+Aeroplane mode:
+Started!!!
+Sim present, so procedding the test
+in home screen
+Test case = PASS ...
+
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 10
+Total NO.OF iterations Failed: 0
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python MOcall_hotspot_alarm_calender.py 10 
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Starting: Intent { act=android.intent.action.CALL dat=tel:xxxxxxxxxx }
+Pushing audio and video to /sdcard
+('Itr', 1)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 2)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 3)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 4)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 5)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 6)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 7)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 8)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 9)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+('Itr', 10)
+--------------------------------
+sim not present, please insert the sim and start the test
+Connecting the call to MT_num...
+
+Unable to connect the call, so test case is failed
+--------------------------------
+--------------------------------
+('Total NO.OF Iterations ran : ', 10)
+Total NO.OF iterations Passed: 0
+Total NO.OF iterations Failed: 10
+---------------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Loadpage.py 10 
+adbd is already running as root
+remount succeeded
+=======================================================================
+Stability test started
+=======================================================================
+-----------------
+('Itr', 1)
+---------------------------
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Whatsapp_stress.py 10 
+Starting: Intent { cmp=com.whatsapp/.Main }
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_Connect_preset.py 10 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+('Iterations:', '10')
+False
+('Not connected to presaved wifi  for iteration:', 0)
+('Not connected to presaved wifi  for iteration:', 1)
+('Not connected to presaved wifi  for iteration:', 2)
+('Not connected to presaved wifi  for iteration:', 3)
+('Not connected to presaved wifi  for iteration:', 4)
+('Not connected to presaved wifi  for iteration:', 5)
+('Not connected to presaved wifi  for iteration:', 6)
+('Not connected to presaved wifi  for iteration:', 7)
+('Not connected to presaved wifi  for iteration:', 8)
+('Not connected to presaved wifi  for iteration:', 9)
+('Wifi preset connection Passed:', 0)
+('Wifi preset connection Failed:', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_Connect_reset.py 10 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+Warning: Activity not started, its current task has been brought to the front
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+('Iterations:', '10')
+False
+('Not connected to presaved wifi  for iteration:', 0)
+('Not connected to presaved wifi  for iteration:', 1)
+('Not connected to presaved wifi  for iteration:', 2)
+('Not connected to presaved wifi  for iteration:', 3)
+('Not connected to presaved wifi  for iteration:', 4)
+('Not connected to presaved wifi  for iteration:', 5)
+('Not connected to presaved wifi  for iteration:', 6)
+('Not connected to presaved wifi  for iteration:', 7)
+('Not connected to presaved wifi  for iteration:', 8)
+('Not connected to presaved wifi  for iteration:', 9)
+('Wifi preset connection Passed:', 0)
+('Wifi preset connection Failed:', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Barcode_Camera_stress.py 10 
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+Starting: Intent { cmp=com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity }
+Error type 3
+Error: Activity class {com.gamma.scan/com.gamma.barcodeapp.ui.BarcodeCaptureActivity} does not exist.
+Starting: Intent { act=android.media.action.STILL_IMAGE_CAMERA (has extras) }
+=======================================================================
+Wifi enable disable test started
+=======================================================================
+('Iterations:', '10')
+('Launch QR scanner camera failed for iteration:', 0)
+('Launch Native camera failed for iteration:', 0)
+('Launch QR scanner camera failed for iteration:', 1)
+('Launch Native camera failed for iteration:', 1)
+('Launch QR scanner camera failed for iteration:', 2)
+('Launch Native camera failed for iteration:', 2)
+('Launch QR scanner camera failed for iteration:', 3)
+('Launch Native camera failed for iteration:', 3)
+('Launch QR scanner camera failed for iteration:', 4)
+('Launch Native camera failed for iteration:', 4)
+('Launch QR scanner camera failed for iteration:', 5)
+('Launch Native camera failed for iteration:', 5)
+('Launch QR scanner camera failed for iteration:', 6)
+('Launch Native camera failed for iteration:', 6)
+('Launch QR scanner camera failed for iteration:', 7)
+('Launch Native camera failed for iteration:', 7)
+('Launch QR scanner camera failed for iteration:', 8)
+('Launch Native camera failed for iteration:', 8)
+('Launch QR scanner camera failed for iteration:', 9)
+('Launch Native camera failed for iteration:', 9)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python calculator.py 10 
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=77ms (0ms mobile, 0ms wifi, 77ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=25ms (0ms mobile, 0ms wifi, 25ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=32ms (0ms mobile, 0ms wifi, 32ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=35ms (0ms mobile, 0ms wifi, 35ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=34ms (0ms mobile, 0ms wifi, 34ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=34ms (0ms mobile, 0ms wifi, 34ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=35ms (0ms mobile, 0ms wifi, 35ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=45ms (0ms mobile, 0ms wifi, 45ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.calculator
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.google.android.calculator, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.google.android.calculator"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.google.android.calculator"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=49ms (0ms mobile, 0ms wifi, 49ms not connected)
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+Changing to Degree Mode
+Changing to Radian Mode
+('Fail count=', 0, ',Pass count=', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python alarm.py 10 
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+Starting: Intent { cmp=com.google.android.deskclock/com.android.deskclock.DeskClock }
+32
+19:32
+Alarm is ON
+Alarm is ringing
+33
+19:33
+Alarm is ON
+Alarm is ringing
+33
+19:33
+Alarm is ON
+Alarm is ringing
+33
+19:33
+Alarm is ON
+Alarm is ringing
+33
+19:33
+Alarm is ON
+Alarm is ringing
+34
+19:34
+Alarm is ON
+Alarm is ringing
+34
+19:34
+Alarm is ON
+Alarm is ringing
+34
+19:34
+Alarm is ON
+Alarm is ringing
+34
+19:34
+Alarm is ON
+Alarm is ringing
+34
+19:34
+Alarm is ON
+Alarm is ringing
+('pass_cnt,fail_cnt:', 10, 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python chrome.py 10 
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=======================================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+=======================================================================
+Killing background process of Chrome
+=========Starting: Intent { cmp=com.android.chrome/org.chromium.chrome.browser.ChromeTabbedActivity }
+==============================================================
+================== =====================================================
+Launching chrome
+=======================================================================
+opening browser1...........
+True
+opening browser2...........
+True
+opening browser3...........
+True
+('pass_count is:', 30)
+('fail_count is:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python display_sleep.py 10 
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+Starting: Intent { cmp=com.android.settings/.DisplaySettings }
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+...........Closing the Settings........
+...........Opening the Settings........
+............Opening the DISPLAY Settings............
+sleep is set for 1 sec delay
+value:60000 default:60000
+('pass_cnt=', 10)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Game.py 10 
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=52ms (0ms mobile, 0ms wifi, 52ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=26ms (0ms mobile, 0ms wifi, 26ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=23ms (0ms mobile, 0ms wifi, 23ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=33ms (0ms mobile, 0ms wifi, 33ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=16ms (0ms mobile, 0ms wifi, 16ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=20ms (0ms mobile, 0ms wifi, 20ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=23ms (0ms mobile, 0ms wifi, 23ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.imangi.templerun
+  bash arg: -c
+  bash arg: android.intent.category.LAUNCHER
+  bash arg: 1
+args: [-p, com.imangi.templerun, -c, android.intent.category.LAUNCHER, 1]
+ arg: "-p"
+ arg: "com.imangi.templerun"
+ arg: "-c"
+ arg: "android.intent.category.LAUNCHER"
+ arg: "1"
+data="com.imangi.templerun"
+data="android.intent.category.LAUNCHER"
+Events injected: 1
+## Network stats: elapsed time=19ms (0ms mobile, 0ms wifi, 19ms not connected)
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+...running...running...
+....falling....
+('pass_cnt:', 10)
+('fail_cnt', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python hotspot.py 10 
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { cmp=com.android.settings/.TetherSettings }
+Starting: Intent { act=android.settings.SETTINGS }
+Warning: Activity not started, its current task has been brought to the front
+enabled
+('pass_cnt:', 0)
+('fail_cnt:', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python skype.py 10 
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+..............Killing the Skype Application................
+Sim present, so procedding the test
+sim is present
+('pass_cnt=', 0)
+('fail_cnt=', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python SMS_operations.py 10 
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=65ms (0ms mobile, 0ms wifi, 65ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=26ms (0ms mobile, 0ms wifi, 26ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=34ms (0ms mobile, 0ms wifi, 34ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=22ms (0ms mobile, 0ms wifi, 22ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=39ms (0ms mobile, 0ms wifi, 39ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=29ms (0ms mobile, 0ms wifi, 29ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=19ms (0ms mobile, 0ms wifi, 19ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=17ms (0ms mobile, 0ms wifi, 17ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=42ms (0ms mobile, 0ms wifi, 42ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=22ms (0ms mobile, 0ms wifi, 22ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=19ms (0ms mobile, 0ms wifi, 19ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=42ms (0ms mobile, 0ms wifi, 42ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=39ms (0ms mobile, 0ms wifi, 39ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=35ms (0ms mobile, 0ms wifi, 35ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=20ms (0ms mobile, 0ms wifi, 20ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=31ms (0ms mobile, 0ms wifi, 31ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=28ms (0ms mobile, 0ms wifi, 28ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=15ms (0ms mobile, 0ms wifi, 15ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=22ms (0ms mobile, 0ms wifi, 22ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=14ms (0ms mobile, 0ms wifi, 14ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=27ms (0ms mobile, 0ms wifi, 27ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=22ms (0ms mobile, 0ms wifi, 22ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=49ms (0ms mobile, 0ms wifi, 49ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=15ms (0ms mobile, 0ms wifi, 15ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=21ms (0ms mobile, 0ms wifi, 21ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=30ms (0ms mobile, 0ms wifi, 30ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=22ms (0ms mobile, 0ms wifi, 22ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=25ms (0ms mobile, 0ms wifi, 25ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=15ms (0ms mobile, 0ms wifi, 15ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=18ms (0ms mobile, 0ms wifi, 18ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=20ms (0ms mobile, 0ms wifi, 20ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=20ms (0ms mobile, 0ms wifi, 20ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=28ms (0ms mobile, 0ms wifi, 28ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=24ms (0ms mobile, 0ms wifi, 24ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=20ms (0ms mobile, 0ms wifi, 20ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=23ms (0ms mobile, 0ms wifi, 23ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=34ms (0ms mobile, 0ms wifi, 34ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=13ms (0ms mobile, 0ms wifi, 13ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=25ms (0ms mobile, 0ms wifi, 25ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=16ms (0ms mobile, 0ms wifi, 16ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=28ms (0ms mobile, 0ms wifi, 28ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=31ms (0ms mobile, 0ms wifi, 31ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=24ms (0ms mobile, 0ms wifi, 24ms not connected)
+  bash arg: -p
+  bash arg: com.google.android.apps.messaging
+  bash arg: 1
+args: [-p, com.google.android.apps.messaging, 1]
+ arg: "-p"
+ arg: "com.google.android.apps.messaging"
+ arg: "1"
+data="com.google.android.apps.messaging"
+Events injected: 1
+## Network stats: elapsed time=17ms (0ms mobile, 0ms wifi, 17ms not connected)
+Working with Messages application
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+Sim present, so procedding the test
+sending SMS to a contact
+sending SMS to multiple contacts
+forwarding SMS to a contact
+Deleting one conversation
+Deleting Multiple convesations
+('pass_cnt:', 10)
+('fail_cnt:', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python Wifi_on_off.py 10 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }
+('Iterations:', '10')
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi enabled
+wifi enabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi disabled
+wifi enabled
+('pass_cnt:', 2)
+('fail_cnt:', 8)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python whatsapp.py 10 
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+-----------killing background process of whatsapp--------
+mobile data is off
+-----------killing background process of whatsapp--------
+('pass_cnt is:', 0)
+('fail_cnt is:', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python sim_management.py 10 
+...sim1 is not activated....
+('sim1 deactive count :', 1)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 2)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 3)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 4)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 5)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 6)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 7)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 8)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 9)
+single sim is present.....operations cant be performed
+...sim1 is not activated....
+('sim1 deactive count :', 10)
+single sim is present.....operations cant be performed
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python change_language.py 10 
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+Starting: Intent { act=android.settings.SETTINGS }
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+value:com.google.android.inputmethod.japanese
+('pass_cnt=', 10)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python GPS.py 10 
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+GPS is disabled
+Enabling GPS.........
+GPS is disabled
+('pass_cnt=', 0)
+('fail_cnt=', 10)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python GPS_Google_Map.py 10 
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+Sim present, so procedding the test
+sim is present
+Enabling the MobileData
+('pass_cnt=', 0)
+('fail_cnt=', 0)
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python download_launch_playstore.py 10 
+Starting: Intent { cmp=com.android.vending/.AssetBrowserActivity }
+Terminate batch job (Y/N)? 
+
+D:\GM LAB\Stability_scripts\trainee\GM9Pro\stress_stability>python wifi_apns.py 10 
+Starting: Intent { act=android.intent.action.MAIN cmp=com.android.settings/.wifi.WifiSettings }

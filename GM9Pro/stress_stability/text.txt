@@ -1,0 +1,198 @@
+Current Location Manager state:
+  Location Listeners:
+    Reciever[c761dcb listener UpdateRecord[passive com.google.android.gms(10014 foreground) Request[POWER_NONE passive fastest=0]]]
+    Reciever[160b9a8 listener UpdateRecord[passive android(1000 foreground) Request[POWER_NONE passive fastest=0]]]
+    Reciever[eb06cc1 listener UpdateRecord[passive com.qualcomm.location(1000 foreground) Request[POWER_NONE passive fastest=0]]]
+    Reciever[874c66 listener UpdateRecord[passive android(1000 foreground) Request[POWER_NONE passive fastest=+30m0s0ms]]]
+    Reciever[fc6cba7 listener UpdateRecord[passive com.google.android.gms(10014 foreground) Request[POWER_NONE passive fastest=0]]]
+    Reciever[82e94b5 listener UpdateRecord[gps com.generalmobile.gmservice(1000 background) Request[ACCURACY_FINE gps requested=+2m0s0ms fastest=+2m0s0ms]]]
+  Active Records by Provider:
+    gps:
+      UpdateRecord[gps com.generalmobile.gmservice(1000 background) Request[ACCURACY_FINE gps requested=+2m0s0ms fastest=+2m0s0ms]]
+    passive:
+      UpdateRecord[passive android(1000 foreground) Request[POWER_NONE passive fastest=0]]
+      UpdateRecord[passive android(1000 foreground) Request[POWER_NONE passive fastest=+30m0s0ms]]
+      UpdateRecord[passive com.qualcomm.location(1000 foreground) Request[POWER_NONE passive fastest=0]]
+      UpdateRecord[passive com.google.android.gms(10014 foreground) Request[POWER_NONE passive fastest=0]]
+      UpdateRecord[passive com.google.android.gms(10014 foreground) Request[POWER_NONE passive fastest=0]]
+    network:
+  Overlay Provider Packages:
+    network: com.qualcomm.location
+    fused: com.google.android.gms
+  Historical Records by Provider:
+    com.qualcomm.location: passive: Interval 0 seconds: Duration requested 2509 out of the last 2509 minutes: Currently active
+    com.generalmobile.gmservice: gps: Interval 120 seconds: Duration requested 264 out of the last 1957 minutes: Currently active
+    com.google.android.gms: gps: Min interval 0 seconds: Max interval 1 seconds: Duration requested 15 out of the last 1876 minutes
+    android: passive: Min interval 0 seconds: Max interval 1800 seconds: Duration requested 2509 out of the last 2509 minutes: Currently active
+    com.google.android.apps.maps: network: Interval 1 seconds: Duration requested 2 out of the last 5 minutes
+    com.google.android.gms: passive: Interval 0 seconds: Duration requested 2509 out of the last 2509 minutes: Currently active
+    com.google.android.apps.maps: gps: Interval 1 seconds: Duration requested 7 out of the last 1876 minutes
+  Last Known Locations:
+  Last Known Locations Coarse Intervals:
+  Geofences:
+  Enabled Providers:
+    fused
+    passive
+  mWhitelist=[] mBlacklist=[]
+  Throttling Whitelisted Packages:
+    
+    com.google.android.gms
+  fudger: offset: -29, 1033 (meters)
+passive Internal State:
+mReportLocation=true
+gps Internal State:
+  mStarted=true
+  mFixInterval=120000
+  mDisableGps (battery saver mode)=false
+  mEngineCapabilities=0x63 ( SCHEDULING MSB GEOFENCING MEASUREMENTS )
+GNSS_KPI_START
+  KPI logging start time: +28s612ms
+  KPI logging end time: +1d17h49m54s553ms
+  Number of location reports: 0
+  Number of TTFF reports: 0
+  Number of position accuracy reports: 0
+  Number of CN0 reports: 0
+GNSS_KPI_END
+  native internal state: Gnss Location Data:: LatitudeDegrees: 21.92, LongitudeDegrees: 82.78, altitudeMeters: 0, speedMetersPerSecond: 0, bearingDegrees: 0, horizontalAccuracyMeters: 0, verticalAccuracyMeters: 0, speedAccuracyMetersPerSecond: 0, bearingAccuracyDegrees: 0, ageSeconds: 0.773654
+Gnss Time Data:: timeEstimate: 1530858599801, timeUncertaintyNs: 1.39429e+10, frequencyUncertaintyNsPerSec: 272
+Satellite Data for 134 satellites:: 
+constellation: 1=GPS, 2=SBAS, 3=GLO, 4=QZSS, 5=BDS, 6=GAL; ephemerisType: 0=Eph, 1=Alm, 2=?; ephemerisSource: 0=Demod, 1=Supl, 2=Server, 3=?; ephemerisHealth: 0=Good, 1=Bad, 2=?
+svid: 1, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 2, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 3, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 4, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 5, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 6, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 7, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 8, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 9, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 10, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 11, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 12, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 13, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 14, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 15, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 16, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 17, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 18, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 19, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 20, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 21, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 22, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 23, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 24, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 25, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 26, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 27, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 28, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 29, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 30, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 31, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 32, constellation: 1, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 1, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 2, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 3, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 4, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 5, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 6, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 7, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 8, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 9, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 10, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 11, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 12, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 13, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 14, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 15, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 16, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 17, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 18, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 19, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 20, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 21, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 22, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 23, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 24, constellation: 3, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 193, constellation: 4, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 194, constellation: 4, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 195, constellation: 4, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 196, constellation: 4, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 197, constellation: 4, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 1, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 2, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 3, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 4, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 5, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 6, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 7, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 8, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 9, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 10, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 11, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 12, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 13, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 14, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 15, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 16, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 17, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 18, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 19, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 20, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 21, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 22, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 23, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 24, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 25, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 26, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 27, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 28, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 29, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 30, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 31, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 32, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 33, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 34, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 35, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 36, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 37, constellation: 5, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 2, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 0, ephemerisAgeSeconds: 0
+svid: 1, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 2, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 3, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 4, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 5, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 6, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 7, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 8, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 9, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 10, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 11, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 12, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 13, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 14, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 15, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 16, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 17, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 18, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 19, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 20, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 21, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 22, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 23, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 24, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 25, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 26, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 27, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 28, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 29, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 30, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 0, serverPredictionIsAvailable: 1, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 31, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 32, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 33, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 34, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 35, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+svid: 36, constellation: 6, ephemerisType: 2, ephemerisSource: 3, ephemerisHealth: 1, serverPredictionIsAvailable: 0, serverPredictionAgeSeconds: 5399, ephemerisAgeSeconds: 0
+
+network Internal State (com.qualcomm.location):
+REMOTE SERVICE name=network pkg=com.qualcomm.location version=10000
+fused Internal State (com.google.android.gms):
+REMOTE SERVICE name=fused pkg=com.google.android.gms version=1
